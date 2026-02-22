@@ -6,6 +6,7 @@ Aplicación desarrollada en Streamlit que integra conceptos fundamentales de pro
 ## Estructura
 * app.py
 * requirements.txt
+* logo.png
 * README.md
 
 ## Instrucciones de ejecución
