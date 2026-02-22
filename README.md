@@ -1,7 +1,7 @@
 # Proyecto Módulo 1 – Fundamentos
 
 ## Descripción
-Aplicación desarrollada en Streamlit que integra conceptos fundamentales de programación como variables, condicionales, estructuras de datos, funciones, programación funcional y POO.
+Aplicación de gestión de actividades financieras desarrollada en Streamlit que integra conceptos fundamentales de programación como variables, condicionales, estructuras de datos, funciones, programación funcional y POO.
 
 ## Estructura
 * app.py
