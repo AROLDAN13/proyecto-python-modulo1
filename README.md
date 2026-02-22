@@ -13,7 +13,7 @@ Aplicación desarrollada en Streamlit que integra conceptos fundamentales de pro
 2. Ejecutar: `streamlit run app.py`
 
 ## Enlaces
-Repositorio GitHub: (coloca aquí tu enlace de GitHub)
+Repositorio GitHub: https://github.com/AROLDAN13/proyecto-python-modulo1.git
 
 Aplicación en Streamlit Cloud: (coloca aquí tu enlace de Streamlit)
 
