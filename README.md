@@ -15,7 +15,7 @@ Aplicación desarrollada en Streamlit que integra conceptos fundamentales de pro
 ## Enlaces
 Repositorio GitHub: https://github.com/AROLDAN13/proyecto-python-modulo1.git
 
-Aplicación en Streamlit Cloud: (coloca aquí tu enlace de Streamlit)
+Aplicación en Streamlit Cloud: https://proyecto-python-modulo1.streamlit.app/
 
 ## Autor
 Alex Enrique Roldan Talledo
